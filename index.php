@@ -9,5 +9,6 @@
 <body>
     <h1>Título prueba página</h1>
     <p>Prueba de texto</p>
+    <p>Prueba de texto 2</p>
 </body>
 </html>
