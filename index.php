@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Título prueba página</h1>
+    <p>Prueba de texto</p>
 </body>
 </html>
